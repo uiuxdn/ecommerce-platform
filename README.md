@@ -1,13 +1,15 @@
 # E-commerce Platform 🛍️
 
-This is a web-based **e-commerce platform** with separate **Admin** 👨‍💻 and **User** 👩‍💻 dashboards. Built to demonstrate skills how AI can Help **UI/UX designer** 🎨 to **bring Designs to Life** 💻.
+This is a web-based **e-commerce platform** with separate **Admin** 👨‍💻 and **User** 👩‍💻 dashboards. Built to demonstrate skills in how **AI** can help **UI/UX designers** 🎨 to **bring designs to life** 💻.
 
-## Features:
-- ✅ **Admin Dashboard** for managing products, users, and orders.
-- ✅ **User Dashboard** for browsing products, adding to the cart, and making purchases.
-- ✅ **Product Management** 🛒
-- ✅ **User Authentication** 🔐
-- ✅ **Seamless Shopping Experience** ✨
+> **Current Status:** The project is still a work in progress. Features are being developed and refined. 🚧
+
+## Features (Work In Progress):
+- ✅ **Admin Dashboard** for managing products, users, and orders (under development).
+- ✅ **User Dashboard** for browsing products, adding to the cart, and making purchases (under development).
+- ✅ **Product Management** 🛒 (planned).
+- ✅ **User Authentication** 🔐 (in progress).
+- ✅ **Seamless Shopping Experience** ✨ (coming soon).
 
 ## Tech Stack:
 - Frontend: React.js, Tailwind CSS
