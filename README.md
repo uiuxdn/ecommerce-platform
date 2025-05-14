@@ -1,6 +1,6 @@
 # E-commerce Platform 🛍️
 
-This is a web-based **e-commerce platform** with separate **Admin** 👨‍💻 and **User** 👩‍💻 dashboards. Built to demonstrate skills in **UI/UX design** 🎨 and **front-end development** 💻.
+This is a web-based **e-commerce platform** with separate **Admin** 👨‍💻 and **User** 👩‍💻 dashboards. Built to demonstrate skills how AI can Help **UI/UX designer** 🎨 to **bring Designs to Life** 💻.
 
 ## Features:
 - ✅ **Admin Dashboard** for managing products, users, and orders.
